@@ -6,3 +6,5 @@ Still unfinished. At the moment only downloads from the root dir of a host (targ
 Carving is based on the standard files refs/heads/master and logs/refs/heads/master, also polls for some other standard files first, then carves the object based on these two masters.
 
 Unfinished and tested only on one CTF, where we had the difficulty of having to do too much manual labour :D
+
+Might be useful together with nameinfo.sh and well-known.sh, maybe I'll bundle these up one day...
